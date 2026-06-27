@@ -29,6 +29,8 @@ git push -u origin writing
 
 4. Make a change to the line below in this file: \
 WRITE YOUR SCHOOL + INTENDED MAJOR HERE
+School: Adana Science High School 
+Intended Major: Computer Science
 
 5. Add, commit, and push your changes: \
 git add README.md \
